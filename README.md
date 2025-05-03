@@ -67,5 +67,58 @@ Antes de executar o projeto, certifique-se de ter:
 
 ---
 
-## 🚀 Em breve
-Funcionalidades como edição de marcações, notificações e dashboard online no painel do admin estão previstas para futuras versões.
+## ⚙️ Configuração
+
+### 🔄 Clonar o Repositório
+
+```bash
+git clone https://github.com/thismacedo/SistemaPonto.git
+cd SistemaPonto
+```
+## 🗄️ Configurar o Banco de Dados
+Abra o SQL Server Management Studio (SSMS) ou outro cliente SQL.
+
+Crie um banco de dados chamado SistemaPontoDB:
+
+```bash
+CREATE DATABASE SistemaPontoDB;
+```
+Atualize a string de conexão no arquivo SistemaPontoBackend/appsettings.json:
+```bash
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Database=SistemaPontoDB;Trusted_Connection=True;TrustServerCertificate=True;"
+  }
+}
+```
+Substitua Server=localhost pelo nome do seu servidor SQL, se necessário.
+
+## 🛠️ Aplicar Migrações
+Certifique-se de ter a ferramenta dotnet-ef instalada:
+```bash
+dotnet tool install --global dotnet-ef
+```
+Crie e aplique as migrações para configurar o banco de dados:
+```bash
+dotnet ef migrations add InitialCreate
+dotnet ef database update
+```
+## 🧪 Popular o Banco com Dados Iniciais
+No SSMS, execute o seguinte SQL para criar usuários de teste:
+```bash
+USE SistemaPontoDB;
+INSERT INTO Usuarios (Nome, Email, Senha, IsAdmin)
+VALUES ('Admin', 'admin@admin.com', 'admin123', 1),
+       ('Teste', 'teste@teste.com', 'teste123', 0);
+```
+## ▶️ Executando o Projeto
+🚀 Iniciar o Backend
+Na pasta SistemaPontoBackend, execute:
+```bash
+dotnet run
+```
+O servidor será iniciado em http://localhost:5086 (ou outra porta, conforme configurado).
+
+---
+
+## 📌 Este é um projeto didático, você pode aprimorar conforme a sua necessidade.
