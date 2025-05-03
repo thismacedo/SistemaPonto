@@ -1,0 +1,1 @@
+echo -e "# Ignorar arquivos temporários e de build\nbin/\nobj/\n*.csproj.user\n.vscode/\nwwwroot/*.min.*\n*.log\n" > .gitignore

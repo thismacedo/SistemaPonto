@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sistema de Ponto</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="login">
+      <h2>Folha ponto - Login::..</h2>
+      <input type="email" id="email" placeholder="Email" />
+      <input type="password" id="senha" placeholder="Senha" />
+      <button onclick="login()">Entrar</button>
+    </div>
+    <div id="usuario" style="display: none">
+      <h2>Bem-vindo, <span id="nomeUsuario"></span></h2>
+      <button onclick="registrarEntrada()">Registrar Entrada</button>
+      <button onclick="registrarSaida()">Registrar Saída</button>
+      <h3>Minhas Marcações</h3>
+      <ul id="marcacoes"></ul>
+    </div>
+    <div id="admin" style="display: none">
+      <h2>Painel Admin</h2>
+      <button onclick="exportarExcel()">Exportar para Excel</button>
+      <h3>Todas as Marcações</h3>
+      <ul id="marcacoesAdmin"></ul>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
