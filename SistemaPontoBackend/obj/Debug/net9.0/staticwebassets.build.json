@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9TLzRv9fKkiq2/kueNMf+dFxZAG7u4L3648LocImtOs=",
+  "Hash": "IdUxRHs98s8dQ9+oiJ3m1FGhDam9bLXOW4k+q6ywGlk=",
   "Source": "SistemaPontoBackend",
   "BasePath": "_content/SistemaPontoBackend",
   "Mode": "Default",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\gvgxvxxk61-od0e2oe5gg.gz",
+      "Identity": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\gvgxvxxk61-c5jqs2nlv1.gz",
       "SourceId": "SistemaPontoBackend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/SistemaPontoBackend",
-      "RelativePath": "script#[.{fingerprint=od0e2oe5gg}]?.js.gz",
+      "RelativePath": "script#[.{fingerprint=c5jqs2nlv1}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,19 +52,19 @@
       "RelatedAsset": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\wwwroot\\script.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "kkhgorsof6",
-      "Integrity": "9OCEwxmMqOdoN/Lk2D+trgZUPHCTAVhy16zNv9Yum44=",
+      "Fingerprint": "d1uinrgvgm",
+      "Integrity": "ketM+E8jsHx0XVJ6bAkhDStVpHPdL1FRABf+PrrXApA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\wwwroot\\script.js"
     },
     {
-      "Identity": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\ks74il16yl-1n0u0izxto.gz",
+      "Identity": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\ks74il16yl-9rberh3l64.gz",
       "SourceId": "SistemaPontoBackend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/SistemaPontoBackend",
-      "RelativePath": "styles#[.{fingerprint=1n0u0izxto}]?.css.gz",
+      "RelativePath": "styles#[.{fingerprint=9rberh3l64}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -73,8 +73,8 @@
       "RelatedAsset": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\wwwroot\\styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "g7y3o49ak7",
-      "Integrity": "FHiF17N4i9f163+/cPebBF7NXxsHsPSc7jQv1Deh+WM=",
+      "Fingerprint": "9zz1nmp0oh",
+      "Integrity": "ZYtNGRv9705mexOGoMMNCVXMGfsTP7JVZwE8lRv+jjM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\wwwroot\\styles.css"
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "od0e2oe5gg",
-      "Integrity": "bLvWGaLNvA19jAXMXI0lW3VJEJ9qzDp+P065iQjE01E=",
+      "Fingerprint": "c5jqs2nlv1",
+      "Integrity": "kIhx7qTM30zmgOetvq59oNwBTEiciUKyQyJYdv45zPg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\script.js"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1n0u0izxto",
-      "Integrity": "Q6nIVPl8PAeWyignmMD+9lg2LKYV8m/Bo5Iw2UXFeRs=",
+      "Fingerprint": "9rberh3l64",
+      "Integrity": "+31+M53k4Wb+WAV7tlTGVA9X0dwOetFBKlcqP2m8804=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\styles.css"
@@ -169,7 +169,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:50:19 GMT"
+          "Value": "Sun, 04 May 2025 14:37:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -222,7 +222,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:50:19 GMT"
+          "Value": "Sun, 04 May 2025 14:37:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -259,7 +259,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:50:19 GMT"
+          "Value": "Sun, 04 May 2025 14:37:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -306,7 +306,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:50:19 GMT"
+          "Value": "Sun, 04 May 2025 14:37:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -367,7 +367,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:50:19 GMT"
+          "Value": "Sun, 04 May 2025 14:37:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -412,7 +412,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:50:19 GMT"
+          "Value": "Sun, 04 May 2025 14:37:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -443,13 +443,13 @@
       ]
     },
     {
-      "Route": "script.js",
-      "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\gvgxvxxk61-od0e2oe5gg.gz",
+      "Route": "script.c5jqs2nlv1.js",
+      "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\gvgxvxxk61-c5jqs2nlv1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000564334086"
+          "Quality": "0.000501756147"
         }
       ],
       "ResponseHeaders": [
@@ -459,19 +459,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1771"
+          "Value": "1992"
         },
         {
           "Name": "ETag",
-          "Value": "\"9OCEwxmMqOdoN/Lk2D+trgZUPHCTAVhy16zNv9Yum44=\""
+          "Value": "\"ketM+E8jsHx0XVJ6bAkhDStVpHPdL1FRABf+PrrXApA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 20:01:14 GMT"
+          "Value": "Sun, 04 May 2025 16:59:48 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -487,18 +487,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"bLvWGaLNvA19jAXMXI0lW3VJEJ9qzDp+P065iQjE01E=\""
+          "Value": "W/\"kIhx7qTM30zmgOetvq59oNwBTEiciUKyQyJYdv45zPg=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "c5jqs2nlv1"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-bLvWGaLNvA19jAXMXI0lW3VJEJ9qzDp+P065iQjE01E="
+          "Value": "sha256-kIhx7qTM30zmgOetvq59oNwBTEiciUKyQyJYdv45zPg="
         }
       ]
     },
     {
-      "Route": "script.js",
+      "Route": "script.c5jqs2nlv1.js",
       "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\wwwroot\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -508,7 +516,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7485"
+          "Value": "8520"
         },
         {
           "Name": "Content-Type",
@@ -516,121 +524,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bLvWGaLNvA19jAXMXI0lW3VJEJ9qzDp+P065iQjE01E=\""
+          "Value": "\"kIhx7qTM30zmgOetvq59oNwBTEiciUKyQyJYdv45zPg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 20:01:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-bLvWGaLNvA19jAXMXI0lW3VJEJ9qzDp+P065iQjE01E="
-        }
-      ]
-    },
-    {
-      "Route": "script.js.gz",
-      "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\gvgxvxxk61-od0e2oe5gg.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1771"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9OCEwxmMqOdoN/Lk2D+trgZUPHCTAVhy16zNv9Yum44=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 20:01:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9OCEwxmMqOdoN/Lk2D+trgZUPHCTAVhy16zNv9Yum44="
-        }
-      ]
-    },
-    {
-      "Route": "script.od0e2oe5gg.js",
-      "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\gvgxvxxk61-od0e2oe5gg.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000564334086"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1771"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9OCEwxmMqOdoN/Lk2D+trgZUPHCTAVhy16zNv9Yum44=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 20:01:14 GMT"
+          "Value": "Sun, 04 May 2025 16:59:48 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"bLvWGaLNvA19jAXMXI0lW3VJEJ9qzDp+P065iQjE01E=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "od0e2oe5gg"
+          "Value": "c5jqs2nlv1"
         },
         {
           "Name": "label",
@@ -638,13 +546,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bLvWGaLNvA19jAXMXI0lW3VJEJ9qzDp+P065iQjE01E="
+          "Value": "sha256-kIhx7qTM30zmgOetvq59oNwBTEiciUKyQyJYdv45zPg="
         }
       ]
     },
     {
-      "Route": "script.od0e2oe5gg.js",
-      "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\wwwroot\\script.js",
+      "Route": "script.c5jqs2nlv1.js.gz",
+      "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\gvgxvxxk61-c5jqs2nlv1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -653,7 +561,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7485"
+          "Value": "1992"
         },
         {
           "Name": "Content-Type",
@@ -661,56 +569,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bLvWGaLNvA19jAXMXI0lW3VJEJ9qzDp+P065iQjE01E=\""
+          "Value": "\"ketM+E8jsHx0XVJ6bAkhDStVpHPdL1FRABf+PrrXApA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 20:01:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "od0e2oe5gg"
-        },
-        {
-          "Name": "label",
-          "Value": "script.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-bLvWGaLNvA19jAXMXI0lW3VJEJ9qzDp+P065iQjE01E="
-        }
-      ]
-    },
-    {
-      "Route": "script.od0e2oe5gg.js.gz",
-      "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\gvgxvxxk61-od0e2oe5gg.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1771"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9OCEwxmMqOdoN/Lk2D+trgZUPHCTAVhy16zNv9Yum44=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 20:01:14 GMT"
+          "Value": "Sun, 04 May 2025 16:59:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -728,7 +591,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "od0e2oe5gg"
+          "Value": "c5jqs2nlv1"
         },
         {
           "Name": "label",
@@ -736,18 +599,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9OCEwxmMqOdoN/Lk2D+trgZUPHCTAVhy16zNv9Yum44="
+          "Value": "sha256-ketM+E8jsHx0XVJ6bAkhDStVpHPdL1FRABf+PrrXApA="
         }
       ]
     },
     {
-      "Route": "styles.1n0u0izxto.css",
-      "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\ks74il16yl-1n0u0izxto.gz",
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\gvgxvxxk61-c5jqs2nlv1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003891050584"
+          "Quality": "0.000501756147"
         }
       ],
       "ResponseHeaders": [
@@ -757,15 +620,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "256"
+          "Value": "1992"
         },
         {
           "Name": "ETag",
-          "Value": "\"FHiF17N4i9f163+/cPebBF7NXxsHsPSc7jQv1Deh+WM=\""
+          "Value": "\"ketM+E8jsHx0XVJ6bAkhDStVpHPdL1FRABf+PrrXApA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:45:19 GMT"
+          "Value": "Sun, 04 May 2025 16:59:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kIhx7qTM30zmgOetvq59oNwBTEiciUKyQyJYdv45zPg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kIhx7qTM30zmgOetvq59oNwBTEiciUKyQyJYdv45zPg="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8520"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kIhx7qTM30zmgOetvq59oNwBTEiciUKyQyJYdv45zPg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 16:59:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kIhx7qTM30zmgOetvq59oNwBTEiciUKyQyJYdv45zPg="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\gvgxvxxk61-c5jqs2nlv1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1992"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ketM+E8jsHx0XVJ6bAkhDStVpHPdL1FRABf+PrrXApA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 16:59:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ketM+E8jsHx0XVJ6bAkhDStVpHPdL1FRABf+PrrXApA="
+        }
+      ]
+    },
+    {
+      "Route": "styles.9rberh3l64.css",
+      "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\ks74il16yl-9rberh3l64.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002320185615"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "430"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZYtNGRv9705mexOGoMMNCVXMGfsTP7JVZwE8lRv+jjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 16:52:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -785,13 +785,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Q6nIVPl8PAeWyignmMD+9lg2LKYV8m/Bo5Iw2UXFeRs=\""
+          "Value": "W/\"+31+M53k4Wb+WAV7tlTGVA9X0dwOetFBKlcqP2m8804=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1n0u0izxto"
+          "Value": "9rberh3l64"
         },
         {
           "Name": "label",
@@ -799,12 +799,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Q6nIVPl8PAeWyignmMD+9lg2LKYV8m/Bo5Iw2UXFeRs="
+          "Value": "sha256-+31+M53k4Wb+WAV7tlTGVA9X0dwOetFBKlcqP2m8804="
         }
       ]
     },
     {
-      "Route": "styles.1n0u0izxto.css",
+      "Route": "styles.9rberh3l64.css",
       "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\wwwroot\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -814,7 +814,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "460"
+          "Value": "955"
         },
         {
           "Name": "Content-Type",
@@ -822,11 +822,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Q6nIVPl8PAeWyignmMD+9lg2LKYV8m/Bo5Iw2UXFeRs=\""
+          "Value": "\"+31+M53k4Wb+WAV7tlTGVA9X0dwOetFBKlcqP2m8804=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:45:19 GMT"
+          "Value": "Sun, 04 May 2025 16:52:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -836,7 +836,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1n0u0izxto"
+          "Value": "9rberh3l64"
         },
         {
           "Name": "label",
@@ -844,13 +844,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Q6nIVPl8PAeWyignmMD+9lg2LKYV8m/Bo5Iw2UXFeRs="
+          "Value": "sha256-+31+M53k4Wb+WAV7tlTGVA9X0dwOetFBKlcqP2m8804="
         }
       ]
     },
     {
-      "Route": "styles.1n0u0izxto.css.gz",
-      "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\ks74il16yl-1n0u0izxto.gz",
+      "Route": "styles.9rberh3l64.css.gz",
+      "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\ks74il16yl-9rberh3l64.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -859,7 +859,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "256"
+          "Value": "430"
         },
         {
           "Name": "Content-Type",
@@ -867,11 +867,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FHiF17N4i9f163+/cPebBF7NXxsHsPSc7jQv1Deh+WM=\""
+          "Value": "\"ZYtNGRv9705mexOGoMMNCVXMGfsTP7JVZwE8lRv+jjM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:45:19 GMT"
+          "Value": "Sun, 04 May 2025 16:52:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -889,7 +889,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1n0u0izxto"
+          "Value": "9rberh3l64"
         },
         {
           "Name": "label",
@@ -897,18 +897,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FHiF17N4i9f163+/cPebBF7NXxsHsPSc7jQv1Deh+WM="
+          "Value": "sha256-ZYtNGRv9705mexOGoMMNCVXMGfsTP7JVZwE8lRv+jjM="
         }
       ]
     },
     {
       "Route": "styles.css",
-      "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\ks74il16yl-1n0u0izxto.gz",
+      "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\ks74il16yl-9rberh3l64.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003891050584"
+          "Quality": "0.002320185615"
         }
       ],
       "ResponseHeaders": [
@@ -918,15 +918,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "256"
+          "Value": "430"
         },
         {
           "Name": "ETag",
-          "Value": "\"FHiF17N4i9f163+/cPebBF7NXxsHsPSc7jQv1Deh+WM=\""
+          "Value": "\"ZYtNGRv9705mexOGoMMNCVXMGfsTP7JVZwE8lRv+jjM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:45:19 GMT"
+          "Value": "Sun, 04 May 2025 16:52:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -946,13 +946,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Q6nIVPl8PAeWyignmMD+9lg2LKYV8m/Bo5Iw2UXFeRs=\""
+          "Value": "W/\"+31+M53k4Wb+WAV7tlTGVA9X0dwOetFBKlcqP2m8804=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Q6nIVPl8PAeWyignmMD+9lg2LKYV8m/Bo5Iw2UXFeRs="
+          "Value": "sha256-+31+M53k4Wb+WAV7tlTGVA9X0dwOetFBKlcqP2m8804="
         }
       ]
     },
@@ -967,7 +967,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "460"
+          "Value": "955"
         },
         {
           "Name": "Content-Type",
@@ -975,11 +975,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Q6nIVPl8PAeWyignmMD+9lg2LKYV8m/Bo5Iw2UXFeRs=\""
+          "Value": "\"+31+M53k4Wb+WAV7tlTGVA9X0dwOetFBKlcqP2m8804=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:45:19 GMT"
+          "Value": "Sun, 04 May 2025 16:52:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -989,13 +989,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Q6nIVPl8PAeWyignmMD+9lg2LKYV8m/Bo5Iw2UXFeRs="
+          "Value": "sha256-+31+M53k4Wb+WAV7tlTGVA9X0dwOetFBKlcqP2m8804="
         }
       ]
     },
     {
       "Route": "styles.css.gz",
-      "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\ks74il16yl-1n0u0izxto.gz",
+      "AssetFile": "C:\\Users\\conta\\Documents\\Dev\\SistemaPonto\\SistemaPontoBackend\\obj\\Debug\\net9.0\\compressed\\ks74il16yl-9rberh3l64.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1004,7 +1004,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "256"
+          "Value": "430"
         },
         {
           "Name": "Content-Type",
@@ -1012,11 +1012,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FHiF17N4i9f163+/cPebBF7NXxsHsPSc7jQv1Deh+WM=\""
+          "Value": "\"ZYtNGRv9705mexOGoMMNCVXMGfsTP7JVZwE8lRv+jjM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:45:19 GMT"
+          "Value": "Sun, 04 May 2025 16:52:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1034,7 +1034,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FHiF17N4i9f163+/cPebBF7NXxsHsPSc7jQv1Deh+WM="
+          "Value": "sha256-ZYtNGRv9705mexOGoMMNCVXMGfsTP7JVZwE8lRv+jjM="
         }
       ]
     }

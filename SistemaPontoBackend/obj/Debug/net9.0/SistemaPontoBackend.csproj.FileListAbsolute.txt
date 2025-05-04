@@ -170,6 +170,7 @@ C:\Users\conta\Documents\Dev\SistemaPonto\SistemaPontoBackend\bin\Debug\net9.0\E
 C:\Users\conta\Documents\Dev\SistemaPonto\SistemaPontoBackend\bin\Debug\net9.0\RBush.dll
 C:\Users\conta\Documents\Dev\SistemaPonto\SistemaPontoBackend\bin\Debug\net9.0\SixLabors.Fonts.dll
 C:\Users\conta\Documents\Dev\SistemaPonto\SistemaPontoBackend\bin\Debug\net9.0\System.IO.Packaging.dll
-C:\Users\conta\Documents\Dev\SistemaPonto\SistemaPontoBackend\obj\Debug\net9.0\compressed\ks74il16yl-1n0u0izxto.gz
 C:\Users\conta\Documents\Dev\SistemaPonto\SistemaPontoBackend\obj\Debug\net9.0\compressed\0kat1nm1d2-x3dutmsoay.gz
-C:\Users\conta\Documents\Dev\SistemaPonto\SistemaPontoBackend\obj\Debug\net9.0\compressed\gvgxvxxk61-od0e2oe5gg.gz
+C:\Users\conta\Documents\Dev\SistemaPonto\SistemaPontoBackend\obj\Debug\net9.0\SistemaPontoBackend.sourcelink.json
+C:\Users\conta\Documents\Dev\SistemaPonto\SistemaPontoBackend\obj\Debug\net9.0\compressed\ks74il16yl-9rberh3l64.gz
+C:\Users\conta\Documents\Dev\SistemaPonto\SistemaPontoBackend\obj\Debug\net9.0\compressed\gvgxvxxk61-c5jqs2nlv1.gz
